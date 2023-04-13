@@ -23,7 +23,7 @@ const EsignatureApp = () => {
       <Title classes={"title"} text={name} />
       <Title classes={"subtitle mb-4"} text={!date ? "Select Date" : date} />
       <p>
-        Hello , my Name is shehab and this is my first project in this course
+        Hello , my Name is {name} and this is my first project in this course and this day is {date}
       </p>
 
       <footer
