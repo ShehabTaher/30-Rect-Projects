@@ -1,6 +1,6 @@
 
 import './App.css';
-import HiddenSearchBar from './projects/11-Hidden-Search-Bar/HiddenSearchBar';
+import HiddenSearchBar from './projects/10-Hidden-Search-Bar/HiddenSearchBar';
 // import SlideToUnlock from './projects/08-Slide-to-unlock/SlideToUnlock';
 // import SliderApp from './projects/09-Slider/SliderApp';
 // import LightAndDarkMode from './projects/07-Dark-mode/LightAndDarkMode';
